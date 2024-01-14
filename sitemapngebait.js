@@ -16,3 +16,6 @@ border-radius:4px;-moz-border-radius:4px;
 .postname li{border-bottom: #ddd 1px dotted;margin-right:5px}
 </style>
 <div id="toc">
+<script src="/feeds/posts/default?max-results=9999&amp;alt=json-in-script&amp;callback=loadtoc">
+</script></div>
+
